@@ -23,8 +23,8 @@ while [ "$(aws ec2 describe-volumes-modifications --volume-id $VOLUMEID --filter
 
   # Rewrite the partition table so that the partition takes up all the space that it can.
   lsblk
-  sudo growpart /dev/nvme0n1
+  sudo growpart /dev/nvme0n1 1
 
   # Expand the size of the file system.
-  sudo resize2fs /dev/nvme0n1 
+  sudo resize2fs /dev/nvme0n1p1
 
