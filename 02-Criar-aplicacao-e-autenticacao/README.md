@@ -66,4 +66,6 @@
     ![](img/use-5.png)
 33. Para que você possa colocar as informações do usuario no log da aplicação deixe o arquivo App.js como na imagem abaixo onde são adicionados imports nas linhas 10 e 11 do print, além de novas funções da linha 19 a 28 dentro da function App
     ![](img/user-1.png)
-34. Salve o arquivo e execute novamente o comando `npm start`
+34. Salve o arquivo e execute novamente o comando `npm start` e acesse a aplicação via navegar.
+35. Agora toda vez que abre a pagina principal pode ver que existe um log da aplicação no console do navegador.
+    ![](img/user-2.png)
