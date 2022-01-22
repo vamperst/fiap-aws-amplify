@@ -64,4 +64,6 @@
 31. Salve o arquivo com CTRL + S.
 32. Execute novamente o comando `npm start` e acesse novamente o ip publico na porta 8080. Verá que agora tem um botão para fazer o Sign out da aplicação na parte inferior da página e retorna direto para a tela de login.
     ![](img/use-5.png)
-    
+33. Para que você possa colocar as informações do usuario no log da aplicação deixe o arquivo App.js como na imagem abaixo onde são adicionados imports nas linhas 10 e 11 do print, além de novas funções da linha 19 a 28 dentro da function App
+    ![](img/user-1.png)
+34. Salve o arquivo e execute novamente o comando `npm start`
