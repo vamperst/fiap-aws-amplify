@@ -63,4 +63,5 @@
     ![](img/out-1.png)
 31. Salve o arquivo com CTRL + S.
 32. Execute novamente o comando `npm start` e acesse novamente o ip publico na porta 8080. Verá que agora tem um botão para fazer o Sign out da aplicação na parte inferior da página e retorna direto para a tela de login.
+    ![](img/use-5.png)
     
