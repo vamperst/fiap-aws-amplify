@@ -486,4 +486,4 @@ export default withAuthenticator(Router);
     ![](img/dynamo5.png)
 
 11. De volta ao cloud9, execute o comando `npm start` para subir o servidor e acesse em outra aba do navegador utilizando o ip da maquina + porta 8080
-12. Adicione posts para testar a funcionalidade
+12. Adicione posts para testar a funcionalidade.
