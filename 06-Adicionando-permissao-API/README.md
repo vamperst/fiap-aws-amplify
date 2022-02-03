@@ -1,5 +1,6 @@
 ## Adicionando permissões no modelo da API
 
+1. Entre no diretório da aplicação com o comando `cd ~/environment/postagram`
 1. Você pode atualizar a API do AppSync para ativar vários modos de autorização.
 
     Neste exemplo, atualizaremos a API para usar a tecla Cognito e API para permitir uma combinação de acesso público e privado.Isso também nos permitirá implementar a autorização para a API.
